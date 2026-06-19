@@ -1,6 +1,8 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently learning Java.<br>Future Data Scientist <br>
+🎓 Undergrad CSE @ University Institute of Technology, RGPV | UIT'29
+💻 DSA in Java | Web Development | GenAI
+🚀 Vibe Coder | Building, Learning & Growing<br>
 
 
 ## 🌐 Socials:
