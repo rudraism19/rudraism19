@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-🎓 Undergrad CSE @ University Institute of Technology, RGPV | UIT'29
-💻 DSA in Java | Web Development | GenAI
+🎓 Undergrad CSE @ University Institute of Technology, RGPV | UIT'29 <br>
+💻 DSA in Java | Web Development | GenAI <br>
 🚀 Vibe Coder | Building, Learning & Growing<br>
 
 
