@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Undergrad CSE @ University Institute of Technology, RGPV | UIT'29<br>💻 DSA in Java | Web Development | GenAI<br>🚀 Vibe Coder | Building, Learning & Growing
+⚡ AI Backend Engineer | Building Scalable APIs & AI Systems | FastAPI | LLMs | RAG <br> Vibe Coder | Building, Learning & Growing
 
 
 ## 🌐 Socials:
