@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ AI Backend Engineer | Building Scalable APIs & AI Systems | FastAPI | LLMs | RAG <br> Vibe Coder | Building, Learning & Growing
+AI Backend Engineer | Building Scalable APIs & AI Systems | FastAPI | LLMs | RAG <br> Vibe Coder | Building, Learning & Growing
 
 
 ## 🌐 Socials:
